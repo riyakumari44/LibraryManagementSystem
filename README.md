@@ -10,19 +10,79 @@ The Library System in Python is a straightforward venture created utilizing Pyth
 All the Key Features and functionalities of different entities are show below: 
 
 Library admin (manages all the management)
+
+<img width="748" height="446" alt="Screenshot 2026-02-21 at 6 57 00 PM" src="https://github.com/user-attachments/assets/11fc743a-53cf-40ce-ba23-0d85931efa97" />
+
+Dashboard
+
+<img width="769" height="742" alt="Screenshot 2026-02-21 at 6 57 41 PM" src="https://github.com/user-attachments/assets/44391af6-a134-47fe-93c6-0b7e3f1280da" />
+
+
 Issue Book
-Renew Book
+
+<img width="567" height="330" alt="Screenshot 2026-02-21 at 6 59 31 PM" src="https://github.com/user-attachments/assets/c6e8342a-1260-4bf4-bf6b-b0c855c2c6a9" />
+
+
 Return Book
+
+<img width="599" height="233" alt="Screenshot 2026-02-21 at 6 59 42 PM" src="https://github.com/user-attachments/assets/4255b7cf-c23d-4f0b-8241-56e329612282" />
+
+
 Search Student
+
+<img width="567" height="283" alt="Screenshot 2026-02-21 at 7 00 10 PM" src="https://github.com/user-attachments/assets/72f1c385-343e-44e1-ba78-cdeed7fbd380" />
+
+
 Search Book
+
+<img width="553" height="331" alt="Screenshot 2026-02-21 at 6 59 52 PM" src="https://github.com/user-attachments/assets/38b23f77-0ad5-43fb-84d2-2f4b1bab7e5f" />
+
+
 Add User
+
+<img width="623" height="336" alt="Screenshot 2026-02-21 at 6 58 16 PM" src="https://github.com/user-attachments/assets/1125c8ec-7795-4577-90f3-f9ae1bafb36b" />
+
+
 Remove User
+
+<img width="611" height="275" alt="Screenshot 2026-02-21 at 6 59 19 PM" src="https://github.com/user-attachments/assets/b240cc09-e578-4e84-b7b1-d21e4d9a4105" />
+
+
 Add Student
+
+<img width="562" height="337" alt="Screenshot 2026-02-21 at 6 58 00 PM" src="https://github.com/user-attachments/assets/96640d1e-471e-4e5a-bc3a-2c18314a620e" />
+
+
 Remove Student
-Add Book stock or list of book
+
+<img width="638" height="279" alt="Screenshot 2026-02-21 at 6 59 04 PM" src="https://github.com/user-attachments/assets/cec120a8-9a47-42b0-835f-db4fa5f1577d" />
+
+Update Students
+
+<img width="544" height="312" alt="Screenshot 2026-02-21 at 7 00 21 PM" src="https://github.com/user-attachments/assets/59e0b418-d395-468d-9f24-cbf0cc2b220a" />
+
+
 Remove Book
-Students details with old student record
+
+<img width="582" height="315" alt="Screenshot 2026-02-21 at 6 58 50 PM" src="https://github.com/user-attachments/assets/90663976-8eb3-4839-95e0-4635add16379" />
+
+
 Show student or books
+Students details with old student record
+
+<img width="763" height="456" alt="Screenshot 2026-02-21 at 6 58 32 PM" src="https://github.com/user-attachments/assets/0c788184-8b93-4404-98c6-cb013f95edd0" />
+
+
+Databases Structure
+
+<img width="564" height="274" alt="Screenshot 2026-02-21 at 7 00 46 PM" src="https://github.com/user-attachments/assets/a5a47220-d171-49c0-ac99-4e082dfd7436" />
+
+
+
+Conclusion: 
+
+Consequently, this is an advanced method of the board of the library framework. Likewise, the plan of this framework is truly straightforward so the client won't get any troubles while dealing with it. A Library Management System is software built to handle the primary housekeeping functions of a library in daily basses. This software will be a significant endeavor in promoting good work environment in the college, school or any organization. This program will also be beneficial to the students and the librarians. It works in easy way, so that anyone can use this software. We can add more features like registrations and the record of the staff and also can include the shelf number books, there position or location and the whole stock of old and new books in future.
+
 
 
 
